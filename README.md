@@ -11,7 +11,7 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 
 # Screenshots
 
-<img height="480px" src="assets/images/preview_01.png"><img height="480px" src="assets/images/preview_02.png"><img height="480px" src="assets/images/preview_03.png">
+<img height="480px" src="row/preview_01.png"><img height="480px" src="row/preview_02.png"><img height="480px" src="assets/images/preview_03.png">
 
 ## License
 
